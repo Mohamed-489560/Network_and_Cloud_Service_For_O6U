@@ -12,7 +12,7 @@ To join our group : https://www.facebook.com/groups/961055997604329
 Network and Cloud Service For O6U is my graduation project from the university and it is an integrated project specialized in creating an infrastructure for the educational sectors
 
 # Important
-**Project details with Diagrams in the attached PDF file**
+**Project details with Diagrams in the attached PDF file** 👆
 
 # Project Description :
 The project is an infrastructure for the educational and administrative sector at the university
