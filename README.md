@@ -30,7 +30,6 @@ The project was implemented on several programs, including GNS3 and VMware for v
 * VoIP service
 * Local backup server
 * Honeypots
-* Microsoft Windows on end Points
 
 # Cloud Technology :
 We have used some of the services that need to be extended from Microsoft Azure within the network :
@@ -46,3 +45,5 @@ In addition to a separate account for the student and the lecturer with differen
 
 **You will find all the digrams in the attachments**
 
+# Future Plan :
+**I will develop the project and add new features and technology**
