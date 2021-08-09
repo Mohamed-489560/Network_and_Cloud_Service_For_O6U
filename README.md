@@ -24,10 +24,12 @@ The project was implemented on several programs, including GNS3 and VMware for v
 * In the network, we have used Cisco software for networking
 * Sophos for firewalls
 * Windows Server 2012 for network management and users
-* VoIP Service
+* VoIP service
+* Local backup server
+* Honeypots
+* Microsoft Windows on end Points
 
 # Cloud Technology :
-
 We have used some of the services that need to be extended from Microsoft Azure within the network :
 * Storage Server
 * Backup Server
