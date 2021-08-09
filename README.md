@@ -45,5 +45,8 @@ In addition to a separate account for the student and the lecturer with differen
 
 **You will find all the digrams in the attachments**
 
+# Project operating environment :
+**The project was run on an HP Proliant DL380P G8 server running ESXI 6.5 in addition to our use of nested virtualization**
+
 # Future Plan :
 **I will develop the project and add new features and technology**
