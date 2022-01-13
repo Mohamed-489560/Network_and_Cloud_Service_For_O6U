@@ -6,6 +6,8 @@ Facebook : https://www.facebook.com/m489560
 
 Linkedin : https://www.linkedin.com/in/m489560
 
+Wuzzuf : https://wuzzuf.net/me/m489560
+
 To join our group : https://www.facebook.com/groups/961055997604329
 
 # Network_and_Cloud_Service_For_O6U
