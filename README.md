@@ -4,7 +4,7 @@
 
 Facebook : https://www.facebook.com/m489560
 
-Linkedin : https://www.linkedin.com/in/mohamed-ibrahim-537561135
+Linkedin : https://www.linkedin.com/in/m489560
 
 To join our group : https://www.facebook.com/groups/961055997604329
 
